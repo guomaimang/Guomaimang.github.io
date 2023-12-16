@@ -1,0 +1,153 @@
+---
+icon: fa-solid fa-user-graduate
+article: false
+date: 2022-03-12
+footer: Legends never die. 
+comment: false 
+sidebar: false
+breadcrumb: false
+---
+
+# 韩佳明
+
+我是香港理工大学工程学院的本科生韩佳明「Hirsun Maxwell」，目前主修计算机科学。我的研究兴趣是 **云计算架构** 和 **人工智能**。
+
+
+- [工作经历](#工作经历)
+- [联系方式](#联系方式) 
+- [专业能力](#专业能力) 
+- [项目 & 学术研究页面](/research.html) or [ORCID](https://orcid.org/0009-0009-8857-5725)
+- [Check English Version](myself.html)
+
+
+## 教育经历
+
+### 香港理工大学 (The Hong Kong Polytechnic University)
+
+<img src="https://pic.hanjiaming.com.cn/2022/05/23/093cef8d87b4a.png" alt="download.png" style="zoom: 33%;" />
+
+- 计算机科学，电子计算学系，工程学院
+- 本科, 大三,  2020.9 - 2024.6 
+
+### 复旦大学 (Fudan University)
+
+<img src="https://pic.hanjiaming.com.cn/2022/05/23/1a595a079115d.png" alt="CleanShot 2022-05-23 at 00.22.18@2x.png" style="zoom:12%;" />
+
+- 夏季交换本科交换生
+- FISS项目，大二 & 大三暑假
+
+### 河北衡水中学 (Hebei Hengshui High School)
+
+<img src="https://pic.hanjiaming.com.cn/2022/05/23/8677f1421c551.png" alt="logo.86300e6.png" style="zoom: 55%;" />
+
+- 高中, 2017-2020
+- 修读理科
+
+## 工作经历
+
+### 普华永道香港 (PwC Hong Kong)
+
+<img src="https://pic.hanjiaming.com.cn/2023/01/14/4009f97652543.jpg" alt="PricewaterhouseCoopersLimited2.jpg" style="zoom: 25%;" />
+
+- 数字咨询 (金融团队)
+- 2023.1 - 2023.6
+
+### 中国科学院自动化研究所 (Chinese Academy of Sciences)
+
+<img src="https://pic.hanjiaming.com.cn/2022/06/20/f1d254c3dd952.png" alt="1655727629898.png" style="zoom:50%;" />
+
+- 算法开发实习工程师
+- 人工智能 & 数据科学 研究
+- 2022.6 - 2022.8
+
+## 联系方式
+
+- 当前位置：香港，九龙红磡
+- 电子邮件：**hirsunmw@outlook.com**（最有效的方法）
+- QQ：[1374921316](http://wpa.qq.com/msgrd?v=3&uin=1374921316&site=qq&menu=yes)
+- Github: [@guomaimang](https://github.com/guomaimang)
+- Linkedin: [@hanjiaming](https://www.linkedin.com/in/hanjiaming/)
+
+## 专业认证
+
+| Brand                                                        | Name                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="https://pic.hanjiaming.com.cn/2022/11/13/1327a3d9d969f.png" alt="1667275963365.png" style="zoom:8%;" /> | Alibaba Cloud Expert of Cloud Computing「阿里云计算专家」    |
+| <img src="https://pic.hanjiaming.com.cn/2022/11/13/49c7e482253e6.png" alt="image.png" style="zoom:10%;" /> | AWS Certified Solutions Architect - Professional「AWS认证解决方案架构师专家」 |
+| <img src="https://pic.hanjiaming.com.cn/2022/11/13/0bca59a2487e4.png" alt="azure-ai-fundamentals-600x600.png" style="zoom:10%;" /> | Microsoft Certified: Microsoft Azure AI 900                  |
+| <img src="https://pic.hanjiaming.com.cn/2023/11/29/776496addc1ce.png" alt="CleanShot 2023-11-29 at 19.33.17@2x.png" style="zoom:10%;" /> | Microsoft Certified: Azure AI Engineer Associate             |
+| <img src="https://pic.hanjiaming.com.cn/2022/11/13/b29b9f1cbbb40.png" alt="download.png" style="zoom: 25%;" /> | DataCamp: Data Scientist Tracks ACCOMPLISHMENT               |
+| <img src="https://pic.hanjiaming.com.cn/2022/11/13/65b30b19487ee.png" alt="image.png" style="zoom:10%;" /> | Microsoft Advertising Certified Professional                 |
+
+更多细节，请前往 ["Licenses & certifications" in my Linkedin](https://www.linkedin.com/in/hanjiaming/details/certifications/)
+
+
+## 活动经历
+
+- 微软学生学习大使 ([学生 MVP 社区](https://mvp.microsoft.com/studentambassadors/profile/34ff3553-c034-496c-a490-db9283f3188a))
+  <img src="https://pic.hanjiaming.com.cn/2023/11/29/fdf80d63b1585.png" alt="1701257374951.png" style="zoom:20%;" />
+- 2023 [联合国千禧年奖学金](https://www.millenniumfellows.org/) - 联合国学术影响力
+  - 被 Millennium Fellowship 提名为 *新兴科技专家* 
+  - 承诺的学术项目：*Universal Education Metaverse*
+    <img src="https://pic.hanjiaming.com.cn/2023/08/14/21e930e24b9c1.png" alt="UN.png" style="zoom:6%;" />
+- 香港特别行政区政府奖学基金 - 人才发展奖学金 
+  <img src="https://pic.hanjiaming.com.cn/2023/06/11/ebc6f8ced1f9b.png" alt="1686464538053.png" style="zoom: 15%;" />
+- 香港创新科技学院 - InnoX Winter Camp
+  <img src="https://pic.hanjiaming.com.cn/2022/12/23/c69dfc1c44167.png" alt="d" style="zoom:25%;" /> <img src="https://static-file.hirsun.tech/2022/12/23/143134c68964d.png" alt="dd" style="zoom:28%;" />
+- American Express (美国运通) - 信用卡违约预测，数据挖掘比赛：银牌，全球 TOP 2%
+- Godaddy - 微企业密度预测大赛：银牌，全球TOP 1%
+- 联合国志愿者计划，莫罗贝发展基金会
+  <img src="https://pic.hanjiaming.com.cn/2022/05/23/d5730f601ad91.png" alt="CleanShot 2022-05-23 at 00.07.50@2x.png" style="zoom: 33%;" />
+- 2022年剑桥大学工程数学暑期项目（奖学金资助）
+  <img src="https://pic.hanjiaming.com.cn/2022/06/20/bb9a3f76e3c1e.png" alt="1655728744272.png" style="zoom:30%;" />
+- 香港理大工程学院委员会学生代表
+- 香港理工大学环球学生大使
+
+## 专业能力
+
+### 信息管理技能
+
+- 资讯科技项目管理
+  - Microsoft Project/ Power BI/ Power Automate (Workflow Automation)
+  - 企业门户/网站定制
+- 网络工程
+  - 区块链（智能合约）/ Web3 开发
+  - 分散式和分布式并行架构设计
+  - 跨境网络流量优化
+- Linux Administration / 云计算
+  - Linux 驱动程序编程
+  - Azure、阿里云、AWS、甲骨文云
+  - VMware vSphere & Horizon：虚拟化云桌面
+- SAAS/IAAS 解决方案
+  - Microsoft 365 企业管理
+    - Azure Active Directory (SSO + ADFS)
+    - [Microsoft Partner Network](https://partner.microsoft.com/zh-hk/)
+  - CRM 解决方案：Salesforce / Dynamic 365
+
+
+### 软件工程技能
+
+- Java, C/C++, Python, Golang, JavaScript, SQL 编程
+- Web / Android / Windows / Mac OS 应用程序开发
+- 多线程应用开发
+
+
+### 数据科学技能
+
+- 探索性数据分析
+- 大数据分析: Hadoop/Spark
+- 人工智能开发（机器学习与概率决策）
+- 数据库：MySQL(Mybatis) / PostgreSQL
+- 生成式 AI 大模型微调, 部署与应用
+
+### 其他技巧
+
+- [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview?term=1-YEAR&tab=subscription) Modeling / MATLAB / Solidworks
+- Final Cut Pro/DaVinci
+
+### 语言
+
+- 中文普通话 & 广东话
+- 英语
+
+有关职业的更多信息，请访问我的Linkedin: [@hanjiaming](https://www.linkedin.com/in/hanjiaming/).
