@@ -22,7 +22,7 @@ features:
 
   - title: GEM 
     icon: fa-brands fa-android
-    details: Geographical Photo Sharing Application <br />  AndroidX + Jetpack + Springboot
+    details: Geographical Photo Sharing Application <br />  AndroidX + Jetpack + SpringBoot
     link: https://guomaimang.github.io/GEM/
 
   - title: Silver Spork
