@@ -74,14 +74,14 @@ I am Hirsun Maxwell 「韩佳明」, an undergraduate in the Faculty of Engineer
 
 ## Professional Certification
 
-| Brand                                                        | Name                                             |
-| ------------------------------------------------------------ | ------------------------------------------------ |
-| <img src="https://pic.hanjiaming.com.cn/2022/11/13/1327a3d9d969f.png" alt="1667275963365.png" style="zoom:8%;" /> | Alibaba Cloud Expert of Cloud Computing          |
-| <img src="https://pic.hanjiaming.com.cn/2022/11/13/49c7e482253e6.png" alt="image.png" style="zoom:10%;" /> | AWS Certified Solutions Architect - Professional |
-| <img src="https://pic.hanjiaming.com.cn/2022/11/13/0bca59a2487e4.png" alt="azure-ai-fundamentals-600x600.png" style="zoom:10%;" /> | Microsoft Certified: Microsoft Azure AI 900      |
-| <img src="https://pic.hanjiaming.com.cn/2023/11/29/776496addc1ce.png" alt="CleanShot 2023-11-29 at 19.33.17@2x.png" style="zoom:10%;" /> | Microsoft Certified: Azure AI Engineer Associate |
-| <img src="https://pic.hanjiaming.com.cn/2022/11/13/b29b9f1cbbb40.png" alt="download.png" style="zoom: 25%;" /> | DataCamp: Data Scientist Tracks ACCOMPLISHMENT   |
-| <img src="https://pic.hanjiaming.com.cn/2022/11/13/65b30b19487ee.png" alt="image.png" style="zoom:10%;" /> | Microsoft Advertising Certified Professional     |
+| Brand                                                        | Name                                                  |
+| ------------------------------------------------------------ | ----------------------------------------------------- |
+| <img src="https://pic.hanjiaming.com.cn/2022/11/13/1327a3d9d969f.png" alt="1667275963365.png" style="zoom:8%;" /> | Alibaba Cloud Expert of Cloud Computing               |
+| <img src="https://pic.hanjiaming.com.cn/2022/11/13/49c7e482253e6.png" alt="image.png" style="zoom:10%;" /> | AWS Certified Solutions Architect - Professional      |
+| <img src="https://pic.hanjiaming.com.cn/2022/11/13/0bca59a2487e4.png" alt="azure-ai-fundamentals-600x600.png" style="zoom:10%;" /> | Microsoft Certified: Microsoft Azure AI 900           |
+| <img src="https://pic.hanjiaming.com.cn/2023/11/29/776496addc1ce.png" alt="CleanShot 2023-11-29 at 19.33.17@2x.png" style="zoom:10%;" /> | Microsoft Certified: Azure AI Engineer Associate      |
+| <img src="https://pic.hanjiaming.com.cn/2023/12/22/ca62ec5d94527.png" alt="CleanShot 2023-12-22 at 21.25.12@2x.png" style="zoom:25%;" /> | Microsoft Certified: Azure Administrator Associate    |
+| <img src="https://pic.hanjiaming.com.cn/2023/12/22/c68a6d1546719.png" alt="CleanShot 2023-12-22 at 21.28.56@2x.png" style="zoom:25%;" /> | Microsoft Certified: Azure Solutions Architect Expert |
 
 For details, please check ["Licenses & certifications" in my Linkedin](https://www.linkedin.com/in/hanjiaming/details/certifications/)
 
