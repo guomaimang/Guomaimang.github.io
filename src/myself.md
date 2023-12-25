@@ -108,7 +108,21 @@ For details, please check ["Licenses & certifications" in my Linkedin](https://w
 
 ## Professional Competence
 
-Expertise: Project Management & Java Application Development
+<img src="https://pic.hanjiaming.com.cn/2023/12/25/2a0ac9b549810.svg" alt="PersonalDevelopment Strategy.svg" style="zoom: 66%;" />
+
+### Programming Skills
+
+- Java, C/C++, Python, Golang, JavaScript, SQL
+- Web / Android / Windows / MacOS Application Development
+- Multi-threaded Application Development
+
+### Data Science Skills
+
+- Exploratory Data Analysis
+- Big Data Analysis: Hadoop/Spark
+- Artificial Intelligence Development (Machine Learning & Probabilistic Decision)
+- Database: MySQL (Mybatis)/PostgreSQL
+- GENAI(Large Model) Tuning, Deployment and Application
 
 ### Information Management Skills
 
@@ -129,21 +143,6 @@ Expertise: Project Management & Java Application Development
     - Azure Active Directory (SSO + ADFS)
     - [Microsoft Partner Network](https://partner.microsoft.com/zh-hk/)
   - CRM Solution: Salesforce / Dynamic 365
-
-
-### Programming Skills
-
-- Java, C/C++, Python, Golang, JavaScript, SQL
-- Web / Android / Windows / MacOS Application Development
-- Multi-threaded Application Development
-
-### Data Science Skills
-
-- Exploratory Data Analysis
-- Big Data Analysis: Hadoop/Spark
-- Artificial Intelligence Development (Machine Learning & Probabilistic Decision)
-- Database: MySQL (Mybatis)/PostgreSQL
-- GENAI(Large Model) Tuning, Deployment and Application
 
 ### Other skills
 

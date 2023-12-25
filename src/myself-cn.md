@@ -105,6 +105,23 @@ breadcrumb: false
 
 ## 专业能力
 
+<img src="https://pic.hanjiaming.com.cn/2023/12/25/2a0ac9b549810.svg" alt="PersonalDevelopment Strategy.svg" style="zoom:67%;" />
+
+### 软件工程技能
+
+- Java, C/C++, Python, Golang, JavaScript, SQL 编程
+- Web / Android / Windows / Mac OS 应用程序开发
+- 多线程应用开发
+
+
+### 数据科学技能
+
+- 探索性数据分析
+- 大数据分析: Hadoop/Spark
+- 人工智能开发（机器学习与概率决策）
+- 数据库：MySQL(Mybatis) / PostgreSQL
+- 生成式 AI 大模型微调, 部署与应用
+
 ### 信息管理技能
 
 - 资讯科技项目管理
@@ -123,22 +140,6 @@ breadcrumb: false
     - Azure Active Directory (SSO + ADFS)
     - [Microsoft Partner Network](https://partner.microsoft.com/zh-hk/)
   - CRM 解决方案：Salesforce / Dynamic 365
-
-
-### 软件工程技能
-
-- Java, C/C++, Python, Golang, JavaScript, SQL 编程
-- Web / Android / Windows / Mac OS 应用程序开发
-- 多线程应用开发
-
-
-### 数据科学技能
-
-- 探索性数据分析
-- 大数据分析: Hadoop/Spark
-- 人工智能开发（机器学习与概率决策）
-- 数据库：MySQL(Mybatis) / PostgreSQL
-- 生成式 AI 大模型微调, 部署与应用
 
 ### 其他技巧
 
