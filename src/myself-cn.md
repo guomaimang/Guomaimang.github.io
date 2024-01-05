@@ -26,8 +26,8 @@ breadcrumb: false
 
 <img src="https://pic.hanjiaming.com.cn/2022/05/23/093cef8d87b4a.png" alt="download.png" style="zoom: 33%;" />
 
-- 计算机科学，电子计算学系，工程学院
-- 本科, 大三,  2020.9 - 2024.6 
+- 计算机科学（理学士），电子计算学系，工程学院
+- 本科, 大四,  2020.9 - 2024.6 
 
 ### 复旦大学 (Fudan University)
 
