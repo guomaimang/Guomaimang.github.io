@@ -31,7 +31,7 @@ I am Hirsun Maxwell 「韩佳明」, an undergraduate in the Faculty of Engineer
 <img src="https://pic.hanjiaming.com.cn/2022/05/23/093cef8d87b4a.png" alt="download.png" style="zoom: 33%;" />
 
 - Computer Science, Department of Computing, Faculty of Engineering
-- Undergraduate, Year 3,  2020.9 - 2024.6 
+- Undergraduate, Year 4,  2020.9 - 2024.6 
 
 ### Fudan University (复旦大学)
 
