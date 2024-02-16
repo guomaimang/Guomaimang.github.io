@@ -14,7 +14,7 @@ breadcrumb: false
 
 # Hirsun Maxwell
 
-I am Hirsun Maxwell 「韩佳明」, an undergraduate in the Faculty of Engineering at the Hong Kong Polytechnic University, currently majoring in Computer Science. My research interests are **Cloud Computing Architecture** and **Artificial Intelligence**. 
+I am Hirsun Maxwell 「韩佳明」, an undergraduate in the Faculty of Engineering at the Hong Kong Polytechnic University, currently majoring in Computer Science (Computing). My research interests are **Information System** and **Artificial Intelligence**. 
 
 
 - [Work Experience](#work-experience)「工作经历」

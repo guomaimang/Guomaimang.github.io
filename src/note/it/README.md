@@ -6,3 +6,7 @@ headerDepth: 1
 ---
 
 # IT Management
+
+- [Project Management](da/)
+- [Information Governance](ig/)
+- [Cloud Computing](cc/)
