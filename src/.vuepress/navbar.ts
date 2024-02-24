@@ -110,14 +110,17 @@ export default navbar([
         text: "河北衡水中学",
         link: "http://www.hbhszx.cn",
       },
-
-      {
-        text: "香港理工大学",
-        link: "https://polyu.edu.hk",
-      },
       {
         text: "复旦大学",
         link: "https://www.fudan.edu.cn",
+      },
+      {
+        text: "上海交通大学",
+        link: "https://www.sjtu.edu.cn/",
+      },
+      {
+        text: "香港理工大学",
+        link: "https://polyu.edu.hk",
       },
   ]
   },

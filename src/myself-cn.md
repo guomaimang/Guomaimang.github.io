@@ -29,6 +29,13 @@ breadcrumb: false
 - 计算机科学（理学士），电子计算学系，工程学院
 - 本科, 大四,  2020.9 - 2024.6 
 
+### 上海交通大学 (Shanghai Jiao Tong University)
+
+<img src="https://pic.hanjiaming.com.cn/2024/02/24/7b2d2f8a6668f.png" alt="校标-标志中英文横版.png" title="校标-标志中英文横版.png" style="zoom: 5%;" />
+
+- 2024年春季学期交换 
+- 2024.1 - 2024.6
+
 ### 复旦大学 (Fudan University)
 
 <img src="https://pic.hanjiaming.com.cn/2022/05/23/1a595a079115d.png" alt="CleanShot 2022-05-23 at 00.22.18@2x.png" style="zoom:12%;" />
@@ -86,6 +93,7 @@ breadcrumb: false
 
 - 微软学生学习大使 ([学生 MVP 社区](https://mvp.microsoft.com/studentambassadors/profile/34ff3553-c034-496c-a490-db9283f3188a))
   <img src="https://pic.hanjiaming.com.cn/2023/11/29/fdf80d63b1585.png" alt="1701257374951.png" style="zoom:20%;" />
+- 中国国际“互联网+”大学生创新创业大赛（第九届）香港赛区晋级 + 国赛铜奖
 - 2023 [联合国千禧年奖学金](https://www.millenniumfellows.org/) - 联合国学术影响力
   - 被 Millennium Fellowship 提名为 *新兴科技专家* 
   - 承诺的学术项目：*Universal Education Metaverse*

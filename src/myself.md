@@ -33,6 +33,13 @@ I am Hirsun Maxwell 「韩佳明」, an undergraduate in the Faculty of Engineer
 - Computer Science, Department of Computing, Faculty of Engineering
 - Undergraduate, Year 4,  2020.9 - 2024.6 
 
+### Shanghai Jiao Tong University (上海交通大学)
+
+<img src="https://pic.hanjiaming.com.cn/2024/02/24/7b2d2f8a6668f.png" alt="校标-标志中英文横版.png" title="校标-标志中英文横版.png" style="zoom: 5%;" />
+
+- Spring 2024 Semester Exchange
+- 2024.1 - 2024.6
+
 ### Fudan University (复旦大学)
 
 <img src="https://pic.hanjiaming.com.cn/2022/05/23/1a595a079115d.png" alt="CleanShot 2022-05-23 at 00.22.18@2x.png" style="zoom:12%;" />
@@ -89,6 +96,9 @@ For details, please check ["Licenses & certifications" in my Linkedin](https://w
 
 - Microsoft Student Learning Ambassador ([Student MVP](https://mvp.microsoft.com/studentambassadors/profile/34ff3553-c034-496c-a490-db9283f3188a))
   <img src="https://pic.hanjiaming.com.cn/2023/11/29/fdf80d63b1585.png" alt="1701257374951.png" style="zoom:20%;" />
+- China International "Internet Plus" Student Innovation and Entrepreneurship Competition (9th) 
+  - Hong Kong Regional Advancement
+  - Bronze Medal in National Competition
 - 2023 [Millennium Fellowship](https://www.millenniumfellows.org/) - UNITED NATIONS Academic Impact
   - Appoint as *Emerging Technologist*
   - Committed Academic Project: *Universal Education Metaverse*
