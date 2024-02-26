@@ -263,6 +263,8 @@ Also called *cloud service deployment models*
 - 企业的资源集中到一个中央单位。
 - 无论是在组织内部还是在第三方供应商设施内。
 
+<img src="https://pic.hanjiaming.com.cn/2024/02/26/e4d48d0c4c87c.png" alt="1708950205996.png" title="1708950205996.png" style="zoom: 50%;" />
+
 #### Advantages of Private Cloud
 
 - 私有云为用户提供了高度的安全性和隐私性。
@@ -277,31 +279,52 @@ Also called *cloud service deployment models*
 - 私有云可在组织内部访问，因此运行区域有限。
 - 私有云不适合用户基数大的组织，也不适合没有预建基础设施和足够人力来维护和管理云的组织。
 
-## Hybrid Cloud
+### Hybrid Cloud
 
 - 旨在以低成本实现高安全性和高可扩展性。
 - 管理混合云非常复杂，因为很难管理一种以上的部署模式。
 
-### Advantages of Hybrid Cloud
+#### Advantages of Hybrid Cloud
 
 - 混合云适用于需要比公共云更高安全性的组织。
 - 混合云可帮助您更快地交付新产品和服务。
 - 混合云是降低风险的绝佳途径。
 - 混合云因公共云而提供灵活的资源，因私有云而提供安全的资源。
 
-### Disadvantages of Hybrid Cloud
+#### Disadvantages of Hybrid Cloud
 
 - 在混合云中，安全功能不如私有云。
 - 管理混合云非常复杂，因为很难管理一种以上的部署模式。
 - 在混合云中，服务的可靠性取决于云服务提供商。
 
+### Community Cloud
 
+社群云 被定义为多个组织根据共同的运营和监管要求共享资源和服务的云基础设施。
 
+- 整合多个公共云的服务。
+- 可与内部传统资产/数据中心和私有云混合使用。
+- 享受不同供应商提供的不同质量/费用的服务。
+- 更高的可用性
+- 降低供应商锁定
 
+社区云架构的关键组成部分
 
+#### Advantages of Community Cloud
 
+- 社区云具有成本效益，因为整个云是由多个组织或社区共享的。
+- 社区云适合那些希望拥有比公共云更安全的协作云的组织。
+- 它提供比公共云更好的安全性。
+- 它提供了协作和分配环境。
+- 社区云允许我们在不同组织之间共享云资源、基础设施和其他功能。
 
+#### Disadvantages of Community Cloud
 
+- 对于每个组织来说，这并不是一个好的选择。
+- 安全功能不如私有云。
+- 如果没有合作就不适合。
+- 所有社区成员共享固定数量的数据存储空间和带宽。
+
+<img src="https://pic.hanjiaming.com.cn/2024/02/26/d99a56bfb7dd1.png" alt="1708950175886.png" title="1708950175886.png" />
 
 
 
