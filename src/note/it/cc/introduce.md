@@ -230,16 +230,23 @@ Latency
 
 Also called *cloud service deployment models*
 
-- Public cloud
-- Private cloud
-- Hybrid cloud
-- Community cloud
+- Public cloud: 由特定组织提供给公众开放使用，该组织也是服务的主办方
+- Private cloud: 用于单一组织；可由内部或外部托管
+- Hybrid cloud: 由两个或两个以上的云（私有云、社区云或公共云）组成，这些云仍是独特的实体，但被绑定在一起，提供多种部署模式的优势，由内部和外部托管
+- Community cloud: 由多个组织共享；通常由外部托管，但也可由其中一个组织内部托管
 
 ### Public Cloud
 
-- 云服务提供商通过互联网向所有注册按需付费的公共用户提供服务和基础设施
+云服务提供商通过互联网向所有注册按需付费的公共用户提供服务和基础设施
+
 - 多租户
 - 安全问题
+
+大型基础设施可租赁。
+
+- 客户根据某些服务级别协议 (SLA) 通过 Internet 远程访问资源
+- 例如，亚马逊、谷歌、微软、阿里巴巴、腾讯、华为 > 通常拥有全球数据中心网络。
+- 完全客户自助 -> 服务通过网络服务接受请求并授予资源
 
 #### Advantages of Public Cloud
 
@@ -265,7 +272,14 @@ Also called *cloud service deployment models*
 
 <img src="https://pic.hanjiaming.com.cn/2024/02/26/e4d48d0c4c87c.png" alt="1708950205996.png" title="1708950205996.png" style="zoom: 50%;" />
 
-#### Advantages of Private Cloud
+关键技术：
+
+- 虚拟化技术（VMWare、Xen、KVM、Docker、K8S）
+- 虚拟专用网络 (VPN)（适用于许多国家/地区的公司）。
+
+与公共云相比，成本更高，但更安全（在防火墙后面）。
+
+#### Advantages of Private Cloud 
 
 - 私有云为用户提供了高度的安全性和隐私性。
 - 私有云的速度更快，空间容量更大，性能更佳。
@@ -281,8 +295,16 @@ Also called *cloud service deployment models*
 
 ### Hybrid Cloud
 
+利用私有云和公共云在同一组织内执行不同功能的集成云服务。
+
+- 在公共云上进行非敏感操作；而在内部（私有云）处理敏感操作
 - 旨在以低成本实现高安全性和高可扩展性。
 - 管理混合云非常复杂，因为很难管理一种以上的部署模式。
+- 利用公共云的可扩展性和成本效益，同时将敏感数据保存在私有云的安全环境中，而不会暴露在公共云中。
+
+Netflix、Hulu、Uber 和 Airbnb 在新剧首播或出行高峰期都非常依赖混合云。
+
+![1709205296625.png](https://pic.hanjiaming.com.cn/2024/02/29/b7dd9566b213e.png)
 
 #### Advantages of Hybrid Cloud
 
@@ -307,7 +329,12 @@ Also called *cloud service deployment models*
 - 更高的可用性
 - 降低供应商锁定
 
-社区云架构的关键组成部分
+社区云与公共云类似，不同之处在于它的访问仅限于具有共同关注点/兴趣的云消费者的特定社区，例如
+
+- 医疗保健、研究和教育
+- 高安全性：只有在经过可信身份验证（监管机构要求）后才授予对云的访问权限。
+- 高可用性：资源可用率达到 99.999%（或更高）。例如，银行业务
+- 高性能：高频交易（HFT）、云挖矿、HPC。
 
 #### Advantages of Community Cloud
 
