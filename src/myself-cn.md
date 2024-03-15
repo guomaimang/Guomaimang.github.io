@@ -113,7 +113,7 @@ breadcrumb: false
 
 ## 专业能力
 
-<img src="https://pic.hanjiaming.com.cn/2023/12/25/2a0ac9b549810.svg" alt="PersonalDevelopment Strategy.svg" style="zoom:67%;" />
+<img src="https://pic.hanjiaming.com.cn/2024/03/15/3169a874e905d.svg" alt="PersonalDevelopment Strategy.svg" style="zoom:67%;" />
 
 ### 软件工程技能
 

@@ -118,7 +118,7 @@ For details, please check ["Licenses & certifications" in my Linkedin](https://w
 
 ## Professional Competence
 
-<img src="https://pic.hanjiaming.com.cn/2023/12/25/2a0ac9b549810.svg" alt="PersonalDevelopment Strategy.svg" style="zoom: 66%;" />
+<img src="https://pic.hanjiaming.com.cn/2024/03/15/3169a874e905d.svg" alt="PersonalDevelopment Strategy.svg" style="zoom: 66%;" />
 
 ### Programming Skills
 
