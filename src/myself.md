@@ -126,7 +126,7 @@ For details, please check ["Licenses & certifications" in my Linkedin](https://w
 - Web / Android Application Development
 - Multi-threaded Application Development
 
-### Information Management Skills
+### Information Engineering Skills
 
 - Information Technology
   - Information System Development (SpringBoot/Microservices + Vue)
