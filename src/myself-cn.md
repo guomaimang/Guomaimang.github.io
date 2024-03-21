@@ -118,7 +118,7 @@ breadcrumb: false
 ### 软件工程技能
 
 - Java, C/C++, Python, JavaScript, SQL 编程
-- Web / Android / Windows / Mac OS 应用程序开发
+- Web / Android 应用程序开发
 - 高性能多线程应用开发
 
 ### 信息工程技能
