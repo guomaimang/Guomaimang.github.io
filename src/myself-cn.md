@@ -117,37 +117,32 @@ breadcrumb: false
 
 ### 软件工程技能
 
-- Java, C/C++, Python, Golang, JavaScript, SQL 编程
+- Java, C/C++, Python, JavaScript, SQL 编程
 - Web / Android / Windows / Mac OS 应用程序开发
-- 多线程应用开发
+- 高性能多线程应用开发
 
+### 信息工程技能
 
-### 数据科学技能
-
-- 探索性数据分析
-- 大数据分析: Hadoop/Spark
-- 人工智能开发（机器学习与概率决策）
-- 数据库：MySQL(Mybatis) / PostgreSQL
-- 生成式 AI 大模型微调, 部署与应用
-
-### 信息管理技能
-
-- 资讯科技项目管理
-  - Microsoft Project/ Power BI/ Power Automate (Workflow Automation)
+- 信息技术
+  - 信息系统开发 (SpringBoot/微服务 + Vue)
+  - Microsoft Project/ Power BI/ Power Automate (工作流程自动化)
   - 企业门户/网站定制
 - 网络工程
   - 区块链（智能合约）/ Web3 开发
-  - 分散式和分布式并行架构设计
-  - 跨境网络流量优化
-- Linux Administration / 云计算
-  - Linux 驱动程序编程
+  - 去中心化与分布式并行方案设计
+  - 跨境网络方案优化
+- o	Linux 运维 / 云计算
+  - Linux 系统编程
   - Azure、阿里云、AWS、甲骨文云
-  - VMware vSphere & Horizon：虚拟化云桌面
-- SAAS/IAAS 解决方案
-  - Microsoft 365 企业管理
-    - Azure Active Directory (SSO + ADFS)
-    - [Microsoft Partner Network](https://partner.microsoft.com/zh-hk/)
-  - CRM 解决方案：Salesforce / Dynamic 365
+- SAAS/IAAS 解决方案, 商业智能
+  - Azure Active Directory (SSO + ADFS)
+  - CRM 解决方案: Salesforce / Dynamic 365
+
+### 数据科学技能
+
+- 大数据分析: Hadoop/Spark
+- 数据库 和 SQL: MySQL(Mybatis) /Redis /PostgreSQL
+- 生成式 AI 大模型微调, 部署与应用
 
 ### 其他技巧
 

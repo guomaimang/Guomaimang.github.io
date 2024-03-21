@@ -17,11 +17,11 @@ breadcrumb: false
 I am Hirsun Maxwell 「韩佳明」, an undergraduate in the Faculty of Engineering at the Hong Kong Polytechnic University, currently majoring in Computer Science (Computing). My research interests are **Information System** and **Artificial Intelligence**. 
 
 
-- [Work Experience](#work-experience)「工作经历」
-- [Contact Info](#contact-info) 「联系方式」
-- [Professional Competence](#professional-competence) 「专业能力」
+- [Work Experience](#work-experience)
+- [Contact Info](#contact-info) 「聯絡方式」
+- [Professional Competence](#professional-competence) 
 - [Research & Project Website](/research.html) or [ORCID](https://orcid.org/0009-0009-8857-5725)
-- [查看中文版](myself-cn.html)
+- 👉 [查看中文版](myself-cn.html)
 
 
 ## Campus
@@ -122,23 +122,16 @@ For details, please check ["Licenses & certifications" in my Linkedin](https://w
 
 ### Programming Skills
 
-- Java, C/C++, Python, Golang, JavaScript, SQL
-- Web / Android / Windows / MacOS Application Development
+- Java, C/C++, Python, JavaScript, SQL
+- Web / Android Application Development
 - Multi-threaded Application Development
-
-### Data Science Skills
-
-- Exploratory Data Analysis
-- Big Data Analysis: Hadoop/Spark
-- Artificial Intelligence Development (Machine Learning & Probabilistic Decision)
-- Database: MySQL (Mybatis)/PostgreSQL
-- GENAI(Large Model) Tuning, Deployment and Application
 
 ### Information Management Skills
 
-- IT Project Management
+- Information Technology
+  - Information System Development (SpringBoot/Microservices + Vue)
   - Microsoft Project/ Power BI/ Power Automate (Workflow Automation)
-  - Enterprise Portal/Website Customization
+  - Enterprise Portal / Website Customization
 - Network Engineering
   - Blockchain (Smart Contracts) / Web3 Development
   - Decentralized and Distributed Parallel Architecture Design
@@ -147,12 +140,16 @@ For details, please check ["Licenses & certifications" in my Linkedin](https://w
 - Linux Administration/Cloud Computing
   - Linux Drivers Programming
   - Azure, Alibaba Cloud, AWS, Oracle
-  - VMware vSphere & Horizon: Virtualization Cloud Desktop
 - SAAS/IAAS Solution
   - Microsoft 365 Enterprise Administration
-    - Azure Active Directory (SSO + ADFS)
-    - [Microsoft Partner Network](https://partner.microsoft.com/zh-hk/)
+  - Azure Active Directory (SSO + ADFS)
   - CRM Solution: Salesforce / Dynamic 365
+
+### Data Science Skills
+
+- Big Data Analysis: Hadoop/Spark
+- Database: MySQL (Mybatis) / Redis / PostgreSQL
+- GENAI(Large Model) Tuning, Deployment and Application
 
 ### Other skills
 
@@ -161,7 +158,7 @@ For details, please check ["Licenses & certifications" in my Linkedin](https://w
 
 ### Language
 
-- Mandarin Chinese & Cantonese
+- Cantonese & Mandarin Chinese
 - English
 
 For more information about career, please visit my Linkedin: [@hanjiaming](https://www.linkedin.com/in/hanjiaming/).
