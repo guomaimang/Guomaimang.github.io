@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: 韩佳明的博客
 bgImage: https://pic.hanjiaming.com.cn/2023/06/17/97f848f466a2d.jpg
-heroFullScreen: false
+heroFullScreen: false 
 heroText: false
 projects:
   - name: 读书笔记
