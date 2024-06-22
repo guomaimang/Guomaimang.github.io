@@ -56,6 +56,7 @@ I am Hirsun Maxwell 「韩佳明」, an undergraduate in the Faculty of Engineer
 
 - Digital Consulting (Finance Team)
 - 2023.1 - 2023.6
+- 25/F, Edinburgh Tower The Landmark, 15 Queen's Road Central, Hong Kong
 
 ## Contact Info
 
