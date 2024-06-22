@@ -31,21 +31,15 @@ I am Hirsun Maxwell 「韩佳明」, an undergraduate in the Faculty of Engineer
 <img src="https://pic.hanjiaming.com.cn/2022/05/23/093cef8d87b4a.png" alt="download.png" style="zoom: 33%;" />
 
 - Computer Science, Department of Computing, Faculty of Engineering
-- Undergraduate, Year 4,  2020.9 - 2024.6 
+- Undergraduate, Year 4,  2020.9 - 2024.8
 
 ### Shanghai Jiao Tong University (上海交通大学)
 
 <img src="https://pic.hanjiaming.com.cn/2024/02/24/7b2d2f8a6668f.png" alt="校标-标志中英文横版.png" title="校标-标志中英文横版.png" style="zoom: 5%;" />
 
+- Electronic and Computer Engineering, UM-SJTU Joint Institute
 - Spring 2024 Semester Exchange
-- 2024.1 - 2024.6
-
-### Fudan University (复旦大学)
-
-<img src="https://pic.hanjiaming.com.cn/2022/05/23/1a595a079115d.png" alt="CleanShot 2022-05-23 at 00.22.18@2x.png" style="zoom:12%;" />
-
-- Summer Exchange Undergraduate
-- FISS, Year 2 & Year3 Summer
+- 2024.1 - 2024.7
 
 ### Hebei Hengshui High School (河北衡水中学)
 
@@ -62,14 +56,6 @@ I am Hirsun Maxwell 「韩佳明」, an undergraduate in the Faculty of Engineer
 
 - Digital Consulting (Finance Team)
 - 2023.1 - 2023.6
-
-### Chinese Academy of Sciences (中国科学院自动化研究所)
-
-<img src="https://pic.hanjiaming.com.cn/2022/06/20/f1d254c3dd952.png" alt="1655727629898.png" style="zoom:50%;" />
-
-- Internship Engineer in Algorithm Development
-- Artificial Intelligence and Data Science Research
-- 2022.6 - 2022.8
 
 ## Contact Info
 
