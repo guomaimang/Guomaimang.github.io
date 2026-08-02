@@ -120,7 +120,7 @@ function IntroSection() {
                 全栈开发
               </span>
               <span className="px-2 py-1 m-1 text-xs font-medium rounded-md border bg-secondary/40 cursor-pointer transition hover:bg-secondary">
-                AI Agent & 大模型
+                AI Infra & 大模型
               </span>
               <span className="px-2 py-1 m-1 text-xs font-medium rounded-md border bg-secondary/40 cursor-pointer transition hover:bg-secondary">
                 云计算工程

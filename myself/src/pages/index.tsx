@@ -120,7 +120,7 @@ function IntroSection() {
                 Full Stack
               </span>
             <span className="px-2 py-1 m-1 text-xs font-medium rounded-md border bg-secondary/40 cursor-pointer transition hover:bg-secondary">
-                AI Agent & LLM
+                AI Infra & LLM
               </span>
               <span className="px-2 py-1 m-1 text-xs font-medium rounded-md border bg-secondary/40 cursor-pointer transition hover:bg-secondary">
                 Cloud Computing
